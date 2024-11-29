@@ -54,7 +54,7 @@ Developed by: RegisterNumber:*/
 **Output:**
 
 **RTL**
-<img width="1454" alt="Screenshot 2024-11-29 at 6 27 40 PM" src="https://github.com/user-attachments/assets/20a1a3a3-19a4-4608-9a2b-660d9cb9c8d7">
+<img width="1470" alt="Screenshot 2024-11-29 at 6 14 19 PM" src="https://github.com/user-attachments/assets/592d7f71-2f55-4645-b171-55a772552147">
 
 **Timing Diagram**
 
