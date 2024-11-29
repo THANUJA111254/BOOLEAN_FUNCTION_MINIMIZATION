@@ -44,7 +44,8 @@ RegisterNumber: 24900019
 
 
 **RTL realization**
-![Uploading Screenshot 2024-11-29 at 6.27.08 PM.png…]()
+<img width="1456" alt="Screenshot 2024-11-29 at 6 27 08 PM" src="https://github.com/user-attachments/assets/70e2fbc0-4479-43c7-bc7d-888e7658619f">
+
 
 
 <img width="1449" alt="Screenshot 2024-11-29 at 9 30 16 PM" src="https://github.com/user-attachments/assets/9ea49f12-a8bc-4e54-88d9-7fa095c0ea37">
