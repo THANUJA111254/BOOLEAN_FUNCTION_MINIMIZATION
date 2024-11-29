@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+ # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -44,7 +44,8 @@ RegisterNumber: 24900019
 
 
 **RTL realization**
-<img width="1470" height="1000" alt="Screenshot 2024-11-28 at 8 26 46 PM" src="https://github.com/user-attachments/assets/bafd6e56-ec75-42e2-8f6a-002655cb3af4">
+![Uploading Screenshot 2024-11-29 at 6.27.08 PM.png…]()
+
 
 <img width="1449" alt="Screenshot 2024-11-29 at 9 30 16 PM" src="https://github.com/user-attachments/assets/9ea49f12-a8bc-4e54-88d9-7fa095c0ea37">
 
