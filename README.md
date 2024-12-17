@@ -27,7 +27,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 ```
-mmodule deexp2(a,b,c,d,w,x,y,z,f1,f2);
+module deexp2(a,b,c,d,w,x,y,z,f1,f2);
 input a,b,c,d,w,x,y,z;
 output f1,f2;
 assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
